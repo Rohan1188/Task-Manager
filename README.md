@@ -2,6 +2,8 @@
 
 A clean and intuitive Task Manager web application built with HTML, CSS, and JavaScript. This tool allows users to add, edit, delete, and manage tasks with real-time updates and persistent local storage.
 
+Deeployed Link : https://task-manager-smoky-six.vercel.app/
+
 ## 🚀 Features
 
 * ✅ Add new tasks
