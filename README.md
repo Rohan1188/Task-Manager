@@ -16,7 +16,8 @@ Deeployed Link : https://task-manager-smoky-six.vercel.app/
 
 ## 🗄️ Screenshots
 
-![Task Manager Screenshot](screenshot.png) <!-- Replace or add actual screenshot if available -->
+![image](https://github.com/user-attachments/assets/5a900c2f-5c97-4cde-9111-e6526e53c5c9)
+
 
 ## 🛠️ Technologies Used
 
